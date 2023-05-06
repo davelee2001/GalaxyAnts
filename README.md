@@ -31,17 +31,6 @@ Galaxy Ants is an aerospace intelligent control algorithm service platform. The 
     + [Install](#efficiency)
   * [Main Contributors](#how-to-use)
 
-## Background
-### Business Motivation
-### Innovation
-
-## Algorithm Design
-
-## Results
-### Intuitive
-### Efficiency
-
-
 ## How to use
 ### Notebooks
 -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10R6KIRG5grpBFBDUI5njTcKvZ2rqsaWd?usp=share_link) &ensp; **Running oline**.
@@ -70,4 +59,16 @@ pip install opencv-python moviepy
 # Tests
 pip install pytest pyyaml pytest-instafail tqdm
 ```
+
+
+## Background
+### Business Motivation
+### Innovation
+
+## Algorithm Design
+
+## Results
+### Intuitive
+### Efficiency
+
 
