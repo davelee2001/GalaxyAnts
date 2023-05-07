@@ -64,15 +64,15 @@ pip install pytest pyyaml pytest-instafail tqdm
 ### Business Motivation
 According to statistics from the China Society of Space Research, by the end of 2019, a total of 9,467 spacecraft had been launched globally, among which over 1,800 satellites were in orbit operation, and there were also thousands of failed satellites and millions of space debris and fragments (collectively known as non-cooperative space objects) flying in orbit. Non-cooperative space objects, due to their inability to function properly, can cause significant economic losses and potential collisions with other functional satellites, leading to further degradation of the space environment. Therefore, capturing, removing, or taking control of non-cooperative targets is an important issue in space control.
 <p align="center">
-  <img src="./4.png" width="50%" height="400" />
-  <img src="./5.png" width="50%" height="400" /> 
+  <img src="./4.png" width="30%" height="400" />
+  <img src="./5.png" width="30%" height="400" /> 
 </p>
 
 ### Innovation
 The Galaxy Ants Team proposed a new method for capturing space debris using bionic ant colony intelligence attachment and variation techniques. The team researched the principles of modular robot path planning and cluster topology related to ant colony simulation, conducted modeling and developed artificial intelligence algorithms based on reinforcement learning, and validated them using existing experimental platforms. At the same time, we will establish an algorithm marketplace and virtual community to promote the commercialization of university research achievements.
 <p align="center">
-  <img src="./6.png" width="50%" height="400" />
-  <img src="./8.png" width="50%" height="400" /> 
+  <img src="./6.png" width="30%" height="400" />
+  <img src="./8.png" width="30%" height="400" /> 
 </p>
 
 ## Algorithm Design
@@ -81,7 +81,7 @@ Galaxy Ants: The reinforcement learning algorithm adopted combines multi-agent l
 ## Results
 All algorithms in this work are implemented using Python code. The Python files have been updated and maintained to the latest version, and usage instructions are provided. The following images show the rendering process of multi-agent reinforcement learning for task point coverage with 5, 10, and 15 agents, respectively. As the number of agents increases, the time required to compute 500 iterations on a single AMD Ryzen 4800H CPU increases from 124.72 seconds to 231.25 seconds and eventually to 341.36 seconds. The increase in computation time is linear and acceptable.
 <p align="center">
-  <img src="./images/1.png" width="33%" height="400" />
-  <img src="./images/2.png" width="34%" height="400" /> 
-  <img src="./images/3.png" width="33%" height="400" /> 
+  <img src="./images/1.png" width="23%" height="400" />
+  <img src="./images/2.png" width="24%" height="400" /> 
+  <img src="./images/3.png" width="23%" height="400" /> 
 </p>
